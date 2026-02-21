@@ -15,8 +15,8 @@ By leveraging the browser's built-in security features, this package helps preve
 
 ## Requirements
 
-- PHP ^8.2
-- Laravel ^11.x
+- PHP ^8.3
+- Laravel ^12.x
 
 ## Installation
 
